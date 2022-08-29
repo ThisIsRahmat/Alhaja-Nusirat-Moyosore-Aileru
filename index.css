@@ -1,0 +1,62 @@
+html {
+  
+  }
+
+body {
+  margin: 10;
+  padding: 50;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  
+
+}
+
+main {
+
+
+}
+#img-title {
+align-items: center;
+  text-align: center;
+justify-content: center;
+}
+#title {
+  margin: 30;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  justify-content: centre;
+  }
+  #image {
+height: auto;
+width: auto;
+text-align: centre; 
+  }
+h1 {
+  color: black;
+  font-size: 30px;
+  font-family: monospace;
+}
+h3 {
+  font-size: 15px
+  font-family: monospace;
+}
+#img-div {
+
+}
+
+#img-caption {
+
+}
+
+#tribute-info{
+
+}
+
+#tribute-link{
+
+}
+</style>
